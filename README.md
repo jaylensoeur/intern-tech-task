@@ -1,4 +1,4 @@
-#Internship technical task test
+# Internship technical task test
 
 1. Please fork this repository
 ref: https://help.github.com/en/articles/fork-a-repo
@@ -29,4 +29,4 @@ The Shopping Cart Class should have a `cartId` to indentify the cart, `userId` t
 3) Create a sample unit-test for the add and remove functionality.
 (please create the branch - feature/shopping-cart-add-remove-unit-tests)
 
-By the end of this problem you should have 3 branches squentially building on top of each other as you solve each task.
+By the end of this problem you should have 3 branches sequentially building on top of each other as you solve each task.
