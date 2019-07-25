@@ -6,10 +6,10 @@ public class Cart {
 	int userId;
 	ArrayList<Product> products;
 	
-	public Cart(int cartId, int userId, ArrayList<Product> products) {
+	public Cart(int cartId, int userId) {
 		this.cartId = cartId;
 		this.userId = userId;
-		this.products = products;
+		products = new ArrayList<Product>();
 	}
 	
 	public int getCartId() {
